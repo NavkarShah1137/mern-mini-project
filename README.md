@@ -1,6 +1,11 @@
 # mern-mini-project
 Mern Mini Project 
+Name : Navkar Shah
+Roll : 16010120189
+Batch - MERN7
+No of people : 1
 
+Title : 
 ## Food Delivery App 
 
 This is a Web App which provides Services for food delivery created with **MERN** Stack
